@@ -1,0 +1,3 @@
+i am learning bash
+I will be a DevOps Engineer very soon like in 4 months from now
+num1=7

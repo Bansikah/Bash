@@ -1,0 +1,5 @@
+It is not necessary to decompress a file every time you use it. Compression tools typically come
+with special versions of common tools used to read text files. For example, gzip has a version of
+cat, grep, diff, less, more, and a few others. For gzip, the tools are prefixed with a z, while the
+prefix bz exists for bzip2 and xz exists for xz. Below is an example of using zcat to read display
+a file compressed with gzip:
